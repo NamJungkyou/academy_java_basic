@@ -48,14 +48,14 @@ public class Hello {
 		  
 		  
 		  */
-		
+		while(true) {
 		System.out.println(chick);
 		System.out.println(chicken);
 		System.out.println();
 		System.out.println(chickeen);
 		System.out.println();
 		System.out.println(chickeeen);
-		
+		}
 	}
 
 }
